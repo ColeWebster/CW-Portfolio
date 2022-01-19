@@ -3,3 +3,14 @@
     color: black;
     height: 12vh;
 } */
+
+.recipe-card{
+    position: relative;
+    animation-name: fade-in;
+    animation-duration: 0.5s;
+}
+.previousRecipe{
+    font-size: 1em;
+    white-space: pre-wrap;
+    height:fit-content;
+}
