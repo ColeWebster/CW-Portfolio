@@ -64,9 +64,11 @@ body {
   } */
 
 
-  footer {
+  .footer {
     background-color: #f2f2f2;
+    color: navy;
     padding: 25px;
+    text-align: center;
   }
 
   .jumbotron {
