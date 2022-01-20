@@ -1,4 +1,4 @@
-# updatedPortfolio
+# Updated Portfolio
 
 - Started with Bulma
 - Pivoted to Bootstrap
@@ -6,7 +6,8 @@
 
 - Added portfolio section
 - Added project, planner homework.
-
+- Updated resume to link to Google docs
+- Added bio
 
 
 ## MIT License
