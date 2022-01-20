@@ -8,6 +8,7 @@
 - Added project, planner homework.
 - Updated resume to link to Google docs
 - Added bio
+- Added footer info and changed text.
 
 
 ## MIT License
