@@ -46,8 +46,8 @@ body {
     border-radius: 0;
     margin-bottom: 0;
     font-size: 24px;
-    letter-spacing: 7px;
-    background-color: olive;
+    letter-spacing: 5px;
+    background-color: darkgrey;
     color: navy;
 }
 
@@ -83,4 +83,8 @@ body {
   #bio {
      text-align: center;
      height: 100%;
+  }
+
+  a {
+    color: navy;
   }
