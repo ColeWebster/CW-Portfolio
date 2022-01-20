@@ -1,16 +1,86 @@
-/* #header {
-    background-color: turquoise;
-    color: black;
-    height: 12vh;
-} */
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
 
-.recipe-card{
-    position: relative;
-    animation-name: fade-in;
-    animation-duration: 0.5s;
+  p {
+      font-size: 16px;
+    }
+  
+  .margin {
+      margin-bottom: 15px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+  
+  .bg-1 { 
+    background-color: #ffffff; /* Green */
+    color: navy;
+  }
+
+  .bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+  }
+
+  .bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+
+  .bg-4 { 
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+  }
+
+  .container-fluid {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 24px;
+    letter-spacing: 7px;
+    background-color: olive;
+    color: navy;
 }
-.previousRecipe{
-    font-size: 1em;
-    white-space: pre-wrap;
-    height:fit-content;
+
+#myNavBar {
+    color: navy;
 }
+
+.navbar-nav {
+    color: navy;
+}
+
+  /* .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  } */
+
+
+  footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+  }
+
+  .jumbotron {
+      background-color: navy;
+  }
+
+  img {
+    display: block;
+    width: 350px;
+    height: 375px;
+    border: oldlace solid 5px;
+  }
+
+  #bio {
+     text-align: center;
+     height: 100%;
+  }
