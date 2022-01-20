@@ -1,4 +1,8 @@
 # Updated Portfolio
+Live Deployment: https://colewebster.github.io/updatedPortfolio/
+
+Github: https://github.com/ColeWebster/updatedPortfolio
+
 
 - Started with Bulma
 - Pivoted to Bootstrap
@@ -9,6 +13,12 @@
 - Updated resume to link to Google docs
 - Added bio
 - Added footer info and changed text.
+
+## Current Portfolio
+![Current Portfolio](./assets/updatedPortfolio.jpg)
+
+## Previous Portfolio
+![Previous Portfolio](./assets/previousPort.jpg)
 
 
 ## MIT License

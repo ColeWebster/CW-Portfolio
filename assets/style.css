@@ -73,12 +73,13 @@ body {
 
   .jumbotron {
       background-color: navy;
+      height: fit-content;
   }
 
   img {
     display: block;
-    width: 350px;
-    height: 375px;
+    width: 250px;
+    height: 275px;
     border: oldlace solid 5px;
   }
 
