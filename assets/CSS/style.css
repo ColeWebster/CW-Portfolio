@@ -49,6 +49,7 @@ body {
     letter-spacing: 5px;
     background-color: darkgrey;
     color: navy;
+    display: flex;
 }
 
 #myNavBar {
@@ -77,7 +78,7 @@ body {
   }
 
   img {
-    display: block;
+    display: flex;
     width: 250px;
     height: 275px;
     border: oldlace solid 5px;
@@ -90,4 +91,9 @@ body {
 
   a {
     color: navy;
+  }
+
+  .aboutme {
+    text-align: center;
+    align-items: center;
   }

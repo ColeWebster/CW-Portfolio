@@ -14,6 +14,8 @@ Github: https://github.com/ColeWebster/updatedPortfolio
 - Added bio
 - Added footer info and changed text.
 
+-- Removed DIV from the links so they can be mobile responsive.
+
 ## Current Portfolio
 ![Current Portfolio](./assets/updatedPortfolio.jpg)
 
